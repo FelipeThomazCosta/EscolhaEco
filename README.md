@@ -20,12 +20,3 @@ Plataforma web responsiva, acessível através de navegadores de desktop e dispo
 5. **Autenticação de Usuário:** Os usuários podem criar uma conta e fazer login para acessar recursos exclusivos, como histórico de compras, lista de desejos e recomendações personalizadas.
 6. **Gestão de Conta:** Os usuários podem editar suas informações de perfil, gerenciar suas preferências de notificação e visualizar seu histórico de compras.
 7. **Administração de Produto:** Os administradores têm acesso a um painel de administração onde podem gerenciar o catálogo de produtos, incluindo adicionar, editar e remover itens, além de monitorar o desempenho de vendas e analisar dados do usuário.
-
-## Requisitos Funcionais:
-(Adicione aqui requisitos adicionais específicos, se necessário)
-
-## Requisitos Não Funcionais:
-(Adicione aqui requisitos não funcionais adicionais, se necessário)
-
-## Diagrama de Caso de Uso:
-(Incluir o diagrama de caso de uso aqui)
